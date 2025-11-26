@@ -7,6 +7,7 @@ import English from './pages/English'
 import Vocabulary from './pages/Vocabulary'
 import Practice from './pages/Practice'
 import Cheatsheets from './pages/Cheatsheets'
+import Resources from './pages/Resources'
 import Profile from './pages/Profile'
 import TopicPage from './pages/TopicPage'
 import QuizPage from './pages/QuizPage'
@@ -26,6 +27,7 @@ function App() {
               <Route path="/vocabulary" element={<Vocabulary />} />
               <Route path="/practice" element={<Practice />} />
               <Route path="/cheatsheets" element={<Cheatsheets />} />
+              <Route path="/resources" element={<Resources />} />
               <Route path="/profile" element={<Profile />} />
               <Route path="/topic/:topicId" element={<TopicPage />} />
               <Route path="/quiz/:quizId" element={<QuizPage />} />

@@ -14,6 +14,7 @@ function Sidebar() {
     { path: '/vocabulary', label: 'Vocabulary', icon: '📝' },
     { path: '/practice', label: 'Practice', icon: '✏️' },
     { path: '/cheatsheets', label: 'Cheatsheets', icon: '📋' },
+    { path: '/resources', label: 'Resources', icon: '🔗' },
   ]
 
   return (
