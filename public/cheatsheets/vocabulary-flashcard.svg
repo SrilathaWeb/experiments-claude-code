@@ -1,0 +1,56 @@
+<svg viewBox="0 0 800 1000" xmlns="http://www.w3.org/2000/svg">
+  <!-- Header -->
+  <rect width="800" height="80" fill="#f59e0b"/>
+  <text x="400" y="50" font-size="36" font-weight="bold" fill="white" text-anchor="middle">PSAT VOCABULARY FLASHCARDS</text>
+
+  <!-- Flashcard 1 -->
+  <rect x="40" y="120" width="350" height="180" fill="white" stroke="#f59e0b" stroke-width="2" rx="8"/>
+  <text x="220" y="155" font-size="20" font-weight="bold" fill="#333" text-anchor="middle">AMBIGUOUS</text>
+  <line x1="40" y1="170" x2="390" y2="170" stroke="#f59e0b" stroke-width="1" stroke-dasharray="5,5"/>
+  <text x="220" y="200" font-size="14" fill="#666" text-anchor="middle">Having more than one possible</text>
+  <text x="220" y="220" font-size="14" fill="#666" text-anchor="middle">meaning; unclear</text>
+
+  <!-- Flashcard 2 -->
+  <rect x="410" y="120" width="350" height="180" fill="white" stroke="#f59e0b" stroke-width="2" rx="8"/>
+  <text x="585" y="155" font-size="20" font-weight="bold" fill="#333" text-anchor="middle">BENEVOLENT</text>
+  <line x1="410" y1="170" x2="760" y2="170" stroke="#f59e0b" stroke-width="1" stroke-dasharray="5,5"/>
+  <text x="585" y="200" font-size="14" fill="#666" text-anchor="middle">Kind, generous, and charitable;</text>
+  <text x="585" y="220" font-size="14" fill="#666" text-anchor="middle">showing good will</text>
+
+  <!-- Flashcard 3 -->
+  <rect x="40" y="330" width="350" height="180" fill="white" stroke="#f59e0b" stroke-width="2" rx="8"/>
+  <text x="215" y="365" font-size="20" font-weight="bold" fill="#333" text-anchor="middle">CANDID</text>
+  <line x1="40" y1="380" x2="390" y2="380" stroke="#f59e0b" stroke-width="1" stroke-dasharray="5,5"/>
+  <text x="215" y="410" font-size="14" fill="#666" text-anchor="middle">Truthful and straightforward;</text>
+  <text x="215" y="430" font-size="14" fill="#666" text-anchor="middle">frank and honest</text>
+
+  <!-- Flashcard 4 -->
+  <rect x="410" y="330" width="350" height="180" fill="white" stroke="#f59e0b" stroke-width="2" rx="8"/>
+  <text x="585" y="365" font-size="20" font-weight="bold" fill="#333" text-anchor="middle">DILIGENT</text>
+  <line x1="410" y1="380" x2="760" y2="380" stroke="#f59e0b" stroke-width="1" stroke-dasharray="5,5"/>
+  <text x="585" y="410" font-size="14" fill="#666" text-anchor="middle">Showing careful and persistent</text>
+  <text x="585" y="430" font-size="14" fill="#666" text-anchor="middle">effort in one's work</text>
+
+  <!-- Flashcard 5 -->
+  <rect x="40" y="540" width="350" height="180" fill="white" stroke="#f59e0b" stroke-width="2" rx="8"/>
+  <text x="215" y="575" font-size="20" font-weight="bold" fill="#333" text-anchor="middle">ELOQUENT</text>
+  <line x1="40" y1="590" x2="390" y2="590" stroke="#f59e0b" stroke-width="1" stroke-dasharray="5,5"/>
+  <text x="215" y="620" font-size="14" fill="#666" text-anchor="middle">Fluent, persuasive, and</text>
+  <text x="215" y="640" font-size="14" fill="#666" text-anchor="middle">expressive in speaking or writing</text>
+
+  <!-- Flashcard 6 -->
+  <rect x="410" y="540" width="350" height="180" fill="white" stroke="#f59e0b" stroke-width="2" rx="8"/>
+  <text x="585" y="575" font-size="20" font-weight="bold" fill="#333" text-anchor="middle">FRIVOLOUS</text>
+  <line x1="410" y1="590" x2="760" y2="590" stroke="#f59e0b" stroke-width="1" stroke-dasharray="5,5"/>
+  <text x="585" y="620" font-size="14" fill="#666" text-anchor="middle">Not serious or important;</text>
+  <text x="585" y="640" font-size="14" fill="#666" text-anchor="middle">lacking in seriousness</text>
+
+  <!-- Instructions -->
+  <text x="400" y="800" font-size="16" font-weight="bold" fill="#333" text-anchor="middle">HOW TO USE:</text>
+  <text x="400" y="830" font-size="13" fill="#666" text-anchor="middle">1. Print this page on cardstock</text>
+  <text x="400" y="855" font-size="13" fill="#666" text-anchor="middle">2. Cut along the dashed lines to create flashcards</text>
+  <text x="400" y="880" font-size="13" fill="#666" text-anchor="middle">3. Study daily and review regularly</text>
+  <text x="400" y="905" font-size="13" fill="#666" text-anchor="middle">4. Mark the cards you've mastered</text>
+
+  <text x="400" y="950" font-size="12" fill="#999" text-anchor="middle" font-style="italic">Learn 5-10 new words daily for best results</text>
+</svg>

@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run build:*)",
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nAdd comprehensive printable cheatsheets and study resources\n\n- Create 4 professional SVG-based cheatsheets:\n  * Math Formulas (Algebra, Geometry, Statistics)\n  * Grammar Rules (Subject-verb agreement, tenses, punctuation)\n  * Vocabulary Flashcards (6 high-frequency PSAT words)\n  * Reading Comprehension Strategy Guide\n\n- Add cheatsheetResources.js with:\n  * Detailed resource metadata (titles, descriptions, colors, topics)\n  * Test-taking strategies (6 key tips with icons)\n  * 4-week study plan with weekly focus areas\n  * Study hours and quiz recommendations\n\n- Enhance Cheatsheets page with:\n  * Interactive resource gallery with color-coded cards\n  * Download and view functionality for each cheatsheet\n  * Test-taking strategies section with visual icons\n  * 4-week study plan with progress tracking\n  * Comprehensive \"How to Use\" guide\n  * Print tips and best practices\n\n- Add print-friendly CSS styles:\n  * Page break handling for proper printing\n  * Optimized colors and contrast for printing\n  * Responsive image sizing\n  * Professional print layout\n\nAll resources are stored in public/cheatsheets/ for easy access and download.\n\n🤖 Generated with Claude Code\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
